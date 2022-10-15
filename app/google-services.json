@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068870535147",
+    "project_id": "login-parker",
+    "storage_bucket": "login-parker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068870535147:android:dff56a8a2a010c94447bae",
+        "android_client_info": {
+          "package_name": "com.example.loginpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068870535147-u26dktrpltn05uqhqkdme2jq96nkqbj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4hFoYocdN_-pk88tfhLBMWTtvfixnFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068870535147-u26dktrpltn05uqhqkdme2jq96nkqbj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
